@@ -36,7 +36,7 @@ Welcome to the official home of the **Digitmatch Ghost AI Bot**—an elite autom
 
 * **Price**: **$200 USD** for complete lifetime access.
 * **What's Included**: The full bot configuration, free lifetime updates, step-by-step installation support, and priority communication channels.
-<img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/32a11b22-5ea1-4dc7-a075-76e934644d7c" /> | <img width="1024" height="1536" alt="Image" src="https://github.com/user-attachments/assets/318df35c-646d-483e-885c-1efbf60c00fd" />
+
 <p align="center">
   <table border="0">
     <tr>
