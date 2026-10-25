@@ -49,6 +49,7 @@ Welcome to the official home of the **Digitmatch Ghost AI Bot**—an elite autom
     </tr>
   </table>
 </p>
+
 ---
 
 
