@@ -8,7 +8,7 @@
 ---
 
 ## 📌 Table of Contents
-1. [𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](#-overview)
+1. [𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰](#-𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰)
 2. [𝐊𝐞𝐲 𝐅𝐞𝐚𝐭𝐮𝐫𝐞𝐬 & 𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬](#-key-features--benefits)
 3. [𝐏𝐫𝐢𝐜𝐢𝐧𝐠 & 𝐋𝐢𝐟𝐞𝐭𝐢𝐦𝐞 𝐀𝐜𝐜𝐞𝐬𝐬](#-pricing--lifetime-access)
 4. [𝐆𝐞𝐭 𝐢𝐧 𝐓𝐨𝐮𝐜𝐡 & 𝐏𝐮𝐫𝐜𝐡𝐚𝐬𝐞](#-get-in-touch--purchase)
