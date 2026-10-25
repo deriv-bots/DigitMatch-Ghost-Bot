@@ -143,13 +143,14 @@ Check out our latest performance tracking screenshots from actual trading runs:
     </tr>
   </table>
 </p>
-<p align="center">
-  <table border="0">
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://github.com/user-attachments/assets/bc7ede17-7257-4e84-9dec-64e62c45f764" alt="Image 1" width="100%"/>
-      </td>
-    </tr>
-  </table>
-</p>
+
 ---
+<div align="center">
+
+**Built and maintained by Deriv Pro**
+
+
+<sub>Trade smart. Risk less. Stay consistent.</sub>
+
+</div>
+
