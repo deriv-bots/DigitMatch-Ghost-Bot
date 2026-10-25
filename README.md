@@ -83,6 +83,79 @@ Ready to secure your copy of the **Digitmatch Ghost AI Bot**? Reach out directly
 ## 📈 𝐕𝐞𝐫𝐢𝐟𝐢𝐞𝐝 𝐓𝐫𝐚𝐝𝐢𝐧𝐠 𝐑𝐞𝐬𝐮𝐥𝐭𝐬
 
 Check out our latest performance tracking screenshots from actual trading runs:
-
-
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/7ff4f496-3d71-4195-b922-fa9272fbf0d6" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/4925f1ff-f833-4318-b3fb-adbdcaf6e6a8" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/e90cf60d-acfc-41df-8496-ffff31a65138" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/e5c5e272-9cc4-4cd4-8238-5b00ba9bb6ef" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/39e56fa4-876d-406f-a7bb-974695ec5d76" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/9a11d0f9-6772-4291-89b7-d22aeb29f4ec" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/c460fb7b-7f9f-4e40-9755-d4065c68f9e2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/73a00fa1-26ce-440f-8be5-c57af0f87c15" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/62ed477f-6aeb-4d3b-adbb-ded43d2df7d6" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/ad7a987f-8c9d-4f32-9a29-0510e2ef7bd2" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/3ef1e9cc-38c5-42f9-83b3-db7f9b33f8d3" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/f2d78d0c-3247-4a54-b8fe-23c7ba167c85" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
+<p align="center">
+  <table border="0">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/bc7ede17-7257-4e84-9dec-64e62c45f764" alt="Image 1" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/bc7ede17-7257-4e84-9dec-64e62c45f764" alt="Image 2" width="100%"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github.com/user-attachments/assets/bc7ede17-7257-4e84-9dec-64e62c45f764" alt="Image 3" width="100%"/>
+      </td>
+    </tr>
+  </table>
+</p>
 ---
