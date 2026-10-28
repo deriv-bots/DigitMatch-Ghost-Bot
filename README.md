@@ -143,23 +143,6 @@ Check out our latest performance tracking screenshots from actual trading runs:
     </tr>
   </table>
 </p>
-
----
-<div align="center">
-
-**Built and maintained by Deriv Pro**
-
-
-<sub>Trade smart. Risk less. Stay consistent.</sub>
-
-</div>
-
-## 📈 Verified Trading Results
-
-> Trade smart. Risk less. Stay consistent.
-
-Check out our latest performance tracking screenshots from actual trading runs:
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -178,3 +161,14 @@ Check out our latest performance tracking screenshots from actual trading runs:
     </td>
   </tr>
 </table>
+
+
+---
+<div align="center">
+
+**Built and maintained by Deriv Pro**
+
+
+<sub>Trade smart. Risk less. Stay consistent.</sub>
+
+</div>
