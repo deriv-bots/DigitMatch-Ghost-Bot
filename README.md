@@ -154,3 +154,27 @@ Check out our latest performance tracking screenshots from actual trading runs:
 
 </div>
 
+## 📈 Verified Trading Results
+
+> Trade smart. Risk less. Stay consistent.
+
+Check out our latest performance tracking screenshots from actual trading runs:
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/491f034c-9b06-4ae8-9088-a533df2486a7" width="260" alt="Trading Result 1">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/353e233f-2a75-42cf-b6f9-147bf2adcf5a" width="260" alt="Trading Result 2">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/8236ecab-79b9-4045-a6a7-8902059b39e7" width="260" alt="Trading Result 3">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4a528d9d-7dee-4b48-9dba-c3c62e17d9b8" width="260" alt="Trading Result 4">
+    </td>
+  </tr>
+</table>
