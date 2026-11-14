@@ -18,7 +18,7 @@
 ---
 
 ## 🌟 𝐎𝐯𝐞𝐫𝐯𝐢𝐞𝐰
-Welcome to the official home of the **Digitmatch Ghost AI Bot**—an elite automated trading assistant built for the Deriv platform[cite: 1]. This repository serves as your live proof portfolio, showcasing real-time transaction logs, profit margins, and complete setup guides for traders looking to achieve automated consistency.
+Welcome to the official home of the **Digitmatch Ghost AI Bot**—an elite automated trading assistant built for the Deriv platform. This repository serves as your live proof portfolio, showcasing real-time transaction logs, profit margins, and complete setup guides for traders looking to achieve automated consistency.
 
 ---
 
